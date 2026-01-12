@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
 
-# This site presents the GlobalRiskArchitecture.com / .org domain names
-# as descriptive digital assets. No crawling restrictions are required
-# beyond standard robots.txt semantics.
+Sitemap: https://www.globalriskarchitecture.com/sitemap.xml
